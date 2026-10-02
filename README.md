@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @umutkilinc
-- 👀 I’m interested in ...c# and sql
-- 🌱 I’m currently learning ...c# and sql
+- 👀 I’m interested in ...c#, c and sql
+- 🌱 I’m currently learning ...c#, c and sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...kilincu0@gmail.com
